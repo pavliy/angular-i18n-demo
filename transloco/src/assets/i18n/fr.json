@@ -1,0 +1,7 @@
+{
+  "Hello": "French Hello, world",
+  "HelloWithParam": "French Hello, {{ value }}. How are you?",
+  "TranslatePart": "French translate only part of me",
+  "SampleWithTitle": "French Sample with title",
+  "TextFromTs": "French TextFrom TS File"
+}

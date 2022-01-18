@@ -1,0 +1,7 @@
+<ng-container *transloco="let t">
+  <h1>{{ t('Hello')}} </h1>
+  <h1>{{ t('HelloWithParam', { value: 'John Doe'})}}</h1>
+  <h1>Ohoho, <ng-container>{{t('TranslatePart')}}</ng-container></h1>
+  <h1 [attr.title]="t('SampleWithTitle')">Sample with title</h1>
+  <h1>{{textFromTs}}</h1>
+</ng-container>

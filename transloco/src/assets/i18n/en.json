@@ -1,0 +1,7 @@
+{
+  "Hello": "Hello, world",
+  "HelloWithParam": "Hello, {{ value }}. How are you?",
+  "TranslatePart": "translate only part of me",
+  "SampleWithTitle": "Sample with title",
+  "TextFromTs": "TextFrom TS File"
+}
